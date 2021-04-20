@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 内部间距 -->
+    <dimen name="captchaPadding">10dp</dimen>
+    <!-- 提示文字大小 -->
+    <dimen name="captchaTextSize">14sp</dimen>
+    <!-- 提示文字颜色 -->
+    <color name="captchaTextColor">#FFFFFF</color>
+    <!-- 刷新按钮颜色 -->
+    <color name="captchaRefreshColor">#555555</color>
+    <!-- 刷新按钮间隔 -->
+    <dimen name="captchaRefreshMargin">8dp</dimen>
+    <!-- 刷新按钮大小 -->
+    <dimen name="captchaRefreshSize">24dp</dimen>
+</resources>
